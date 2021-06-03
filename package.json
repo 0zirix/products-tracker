@@ -1,0 +1,21 @@
+{
+  "name": "product-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "chalk": "^4.1.1",
+    "cheerio": "*",
+    "console-table-printer": "^2.9.0",
+    "glob": "^7.1.7",
+    "request": "^2.88.2",
+    "xpath-html": "^1.0.2"
+  }
+}
